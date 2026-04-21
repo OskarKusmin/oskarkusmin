@@ -20,7 +20,11 @@ Prometheus · Grafana · ELK Stack
 **Domain Knowledge**
 FinCrime compliance · KYC/AML · Sanctions risk · Law enforcement liaison
 
+---
+
 ## 🚀 Projects
+
+>*Note: some repositories are currently being tidied up for portfolio presentation and may contain content that was relevant for school peer review but hasn't been cleaned up yet. Updates are ongoing.*
 
 ### 🏁 [RaceControl Live](https://github.com/oskarkusmin/racecontrol-live) *(Active development)*
 A real-time race management suite built as an MVP, usable for small-scale events such as go-kart circuits, track days, or club racing. The system is a set of coordinated displays. Race/flag control, a front desk for session management, a live leaderboard, a lap time observer interface, full-screen trackside flag displays, and a race countdown screen. All syncing state in real time from a central backend.
@@ -44,11 +48,11 @@ A full-stack real-time platform that connects people based on shared interests, 
 ---
 
 ### 🎮 [Tag Arena](https://github.com/oskarkusmin/tag-arena)
-A real-time multiplayer browser tag game for 2–4 players. One player is "it" and tags others to pass the role — whoever spends the least cumulative time as "it" when the 60-second round ends wins. Built as a school project to explore real-time multiplayer synchronisation without a game engine.
+A real-time multiplayer browser tag game for 2–4 players. One player is "it" and tags others to pass the role. Whoever spends the least cumulative time as "it" when the 60-second round ends wins. Built as a school project to explore real-time multiplayer synchronisation without a game engine.
 
 **Stack:** JavaScript (ES modules) · Node.js · WebSocket (ws) · HTML · CSS · Rollup · ngrok
 
 ---
 
 ## 📫 Get in touch
-- LinkedIn: [linkedin.com/in/oskarkusmin](https://www.linkedin.com/in/oskar-kusmin)
+- LinkedIn: [linkedin.com/in/oskar-kusmin](https://www.linkedin.com/in/oskar-kusmin)
