@@ -1,6 +1,6 @@
 # Hi, I'm Oskar 👋
 
-I'm based in Tallinn and am a recent graduate of [//kood, Jõhvi](https://kood.tech) where I studied full stack applications development and cloud DevOps. I come from a compliance background with nearly six years at Wise in different FinCrime related roles. I transitioned into software development out of curiosity for how things are built. 
+I'm based in Tallinn and am a recent graduate of [kood/Jõhvi](https://kood.tech) where I studied full stack applications development and cloud DevOps. I come from a compliance background with nearly six years at Wise in different FinCrime related roles. I transitioned into software development out of curiosity for how things are built. 
 
 I'm currently looking for roles where I can contribute technically while continuing to grow as a developer.
 
